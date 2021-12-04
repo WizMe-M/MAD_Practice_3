@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JavaCamera</string>
+    <string name="btnCapturePhoto">Сделать фотографию</string>
+    <string name="btnCaptureVideo">Снять видео</string>
+</resources>
